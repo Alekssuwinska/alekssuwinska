@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently expanding knowledge in Big Data and Advanced Analytics at Warsaw School of Economics. Through various projects and academic studies, I am gaining hands-on experience with tools like Databricks, Oracle SQL, Python, and R. Eager to apply analytical techniques to real-world problems and continuously expand knowledge in data science and big data.
+
 <!--
 **Alekssuwinska/alekssuwinska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
